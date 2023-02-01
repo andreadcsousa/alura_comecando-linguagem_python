@@ -2,32 +2,15 @@
 
 Criando um jogo para aprender os recursos fundamentais do Python 3.
 
-- [Começando com a linguagem Python](#começando-com-a-linguagem-python)
   - [1. Instalação do Python 3](#1-instalação-do-python-3)
-    - [**Instalação do Python no Windows**](#instalação-do-python-no-windows)
-    - [**Função print e variáveis**](#função-print-e-variáveis)
   - [2. Lidando com a entrada do usuário](#2-lidando-com-a-entrada-do-usuário)
-    - [**Comparando variáveis**](#comparando-variáveis)
   - [3. Testando valores](#3-testando-valores)
-    - [**A condição elif**](#a-condição-elif)
   - [4. A sequência do jogo](#4-a-sequência-do-jogo)
-    - [**O laço com while**](#o-laço-com-while)
-    - [**Formatação de strings**](#formatação-de-strings)
   - [5. Iterando de maneira diferente](#5-iterando-de-maneira-diferente)
-    - [**O laço for**](#o-laço-for)
-    - [**Formatação de strings 2**](#formatação-de-strings-2)
-    - [**Formatted strings literals**](#formatted-strings-literals)
   - [6. Gerando números aleatórios](#6-gerando-números-aleatórios)
-    - [**Gerando e arredondando números aleatórios**](#gerando-e-arredondando-números-aleatórios)
   - [7. Nível e Pontuação](#7-nível-e-pontuação)
-    - [**Definindo uma pontuação para o usuário**](#definindo-uma-pontuação-para-o-usuário)
-    - [**Funções built-in**](#funções-built-in)
-    - [**Divisão de float e integer**](#divisão-de-float-e-integer)
   - [8. Organizando ainda melhor o nosso código](#8-organizando-ainda-melhor-o-nosso-código)
-    - [**Criando funções para os nossos jogos**](#criando-funções-para-os-nossos-jogos)
-    - [**Diferenciando um arquivo executado de um importado**](#diferenciando-um-arquivo-executado-de-um-importado)
   - [9. Comparando Python com C](#9-comparando-python-com-c)
-    - [**Python vs C**](#python-vs-c)
 
 Saiba mais sobre o curso [aqui](https://cursos.alura.com.br/course/python-introducao-a-linguagem) ou acompanhe minhas anotações abaixo. ⬇️
 
