@@ -398,7 +398,11 @@ ou
 
 gcc -std=c99 adivinhacao.c -o adivinhacao
 
-/* Esse comando compila o arquivo adivinhacao.c e se tudo estiver correto, criará o arquivo executável adivinhacao. Agora é só executar o arquivo gerado. */
+/*
+  Esse comando compila o arquivo adivinhacao.c
+  Se tudo estiver correto, criará o arquivo executável adivinhacao.
+  Agora é só executar o arquivo gerado.
+*/
 
 ./adivinhacao
 ```
