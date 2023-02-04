@@ -14,10 +14,10 @@ print("Brasil ganhou 5 títulos mundiais", end="END")
 
 # Criando variáveis
 pais = "Itália"
-type(pais)          # imprime <class 'str'>, ou seja, string
+type(pais)  # imprime <class 'str'>, ou seja, string
 
 quantidade = 4
-type(quantidade)    # imprime <class 'int'>, ou seja, inteiro
+type(quantidade)  # imprime <class 'int'>, ou seja, inteiro
 
 print(pais, "ganhou", quantidade, "títulos mundiais.")
 
